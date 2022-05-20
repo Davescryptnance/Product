@@ -19,15 +19,15 @@ PHP providing the right tools offers loads of advantages to its developers. Maki
 1. Execution:
 The execution process of PHP is very reliable and fast. You can easily run them on platforms like Microsoft, MacOS & Linux.
 
-**Other advantages PHP provides are:
+## Other advantages PHP provides are:
 * PHP has in-built error reporting constants to detect and warn error reports before proceeding.
 * Utilzing the benefits of PHP website customers can save their lots of time and effort by finding all the products at one site.
 
-**Chalanges i faced:
+## Chalanges i faced:
 * Debugging : 
 After coding for some hours to perfect a program, it will turn out to be error. eg: The 'Create Product' button on the web form isnt clickable, the grammer on the error messages isn't right and the software has other errors that are causing hitches in the user experience. As a a newbie some bugs are easy to debug, but  a lot aren't which can lead to endless frustration for new programmers.
 
-**How to Install and Run the Project:
+## How to Install and Run the Project:
 
 To run this project you must have installed virtual server XAMPP on your pc(for Windows)  
 
