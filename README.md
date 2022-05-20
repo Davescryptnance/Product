@@ -4,11 +4,11 @@ ___
 
 **Project Description**
 *What the application does?*
-The application was designed to support the creation of an ecommerce website, which allow the owner of the application to create a product and aloow the consumer to see the products on the product list to purchase from.
+The application was designed to support the creation of an ecommerce website, which allow the owner of the application to create a product and allow the consumer to see the products on the product list to purchase from.
 
 *Why I used PHP?*
 1. Cost savvy:
-PHP are open source in  nature due to which Ecoomerce web development costs is lower. So entrepreneurs can use this amount in enhancing the Ecommerce store funtionality to make it more user-friendly and scalable.
+PHP are open source in  nature due to which Ecommerce web development costs is lower. So entrepreneurs can use this amount in enhancing the Ecommerce store funtionality to make it more user-friendly and scalable.
 
 1. Simple and Flexible:
 PHP coding is very simple to integrate. Components made using this software can be reused. Using PHP it is very easy to meet client's requirements.
@@ -25,7 +25,7 @@ The execution process of PHP is very reliable and fast. You can easily run them 
 
 ## Chalanges i faced:
 * Debugging : 
-After coding for some hours to perfect a program, it will turn out to be error. eg: The 'Create Product' button on the web form isnt clickable, the grammer on the error messages isn't right and the software has other errors that are causing hitches in the user experience. As a a newbie some bugs are easy to debug, but  a lot aren't which can lead to endless frustration for new programmers.
+After coding for some hours to perfect a program, it will turn out to be error. eg: The 'Create Product' button on the web form isn't clickable, the grammer on the error messages isn't right and the software has other errors that are causing hitches in the user experience. As a newbie some bugs are easy to debug, but a lot aren't which can lead to endless frustration for new programmers.
 
 ## How to Install and Run the Project:
 
@@ -41,10 +41,14 @@ To run this project you must have installed virtual server XAMPP on your pc(for 
 3rd step: Paste in xampp/htdocs/
 
 *Now Connecting Database*
-*4th Step:* Open a browser and go to URL "http://localhost/phpmyadmin/"
-*5th Step:* Then, click on databases tab
-*6th Step:*  Create databse naming "products_crud1" 
-*7th Step:* Click on go.
+
+* *4th Step:* Open a browser and go to URL "http://localhost/phpmyadmin/"
+
+* *5th Step:* Then, click on databases tab
+
+* *6th Step:*  Create database naming "products_crud1" 
+
+* *7th Step:* Click on go.
 
 
 * Credits :
